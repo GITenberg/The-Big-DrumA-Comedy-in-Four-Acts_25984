@@ -1,0 +1,32 @@
+_repo: The-Big-DrumA-Comedy-in-Four-Acts_25984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinero, Arthur Wing
+    aliases:
+    - Pinero, Sir Arthur Wing
+    - Pinero, A. W. (Arthur Wing)
+    - Pinero, Arthur W. (Arthur Wing)
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '6013'
+    url: http://www.gutenberg.org/2009/agents/6013
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
+description: ''
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'The Big Drum: A Comedy in Four Acts'
+url: http://www.gutenberg.org/ebooks/25984
